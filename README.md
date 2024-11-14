@@ -12,7 +12,7 @@
 - [Developer Information](#developer-information)
 
 ## Project Overview
-**PixelTagzZ** is a Python-based application designed for gamers seeking optimized tags for their gaming content, particularly in the popular game **VALORANT**. The project addresses the challenges faced by content creators in generating trending and relevant tags to enhance their online visibility and engagement on various platforms.
+**PixelTagzZ** is an innovative Python application designed to empower gamers and content creators by generating optimized tags for their gaming content. With a user-friendly interface, this tool allows users to seamlessly input their in-game details and receive personalized, trending hashtags to enhance their visibility on platforms like YouTube and Instagram. By leveraging a robust MySQL database, **PixelTagzZ** ensures that users access relevant and up-to-date tags, making it easier to engage with their audience. Whether you're a casual player or a dedicated streamer, **PixelTagzZ** is your go-to solution for maximizing your online presence in the gaming community.
 
 ## Features
 - **User-Friendly Interface**: Engages users with a series of prompts to gather relevant information for tag generation.
